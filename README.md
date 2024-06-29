@@ -1,5 +1,12 @@
 # Data Science Internship at Cognifyz Technologies
 
+
+## Images
+
+![Data Science Internship](COGNIFY/page -1.png)
+![Task List](COGNIFY/page -2.png)
+
+
 ## Level 1: Data Exploration and Basic Analysis
 
 ### Task 1: Data Exploration and Preprocessing
@@ -102,12 +109,9 @@ Completing the data science internship at Cognifyz Technologies has equipped me 
 
 ## Repository Link
 
-[GitHub Repository](https://github.com/yourusername/your-repo)
+[GitHub Repository](https://github.com/Nayeem-stud/Cognifyz-Datascience-Internship.git)
 
-## Images
+#DataScience #DataAnalysis #PredictiveModeling #FeatureEngineering #DataVisualization #GeospatialAnalysis #MachineLearning #InternshipExperience #CognifyzTechnologies #RestaurantData #DataInsights #DataDrivenDecisions
 
-![Level 1 Analysis](image_level1_link)
-![Level 2 Feature Engineering](image_level2_link)
-![Level 3 Data Visualization](image_level3_link)
 
 
