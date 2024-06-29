@@ -2,9 +2,9 @@
 
 
 ## Images
-
 ![Data Science Internship](COGNIFY/page -1.png)
 ![Task List](COGNIFY/page -2.png)
+
 
 
 ## Level 1: Data Exploration and Basic Analysis
