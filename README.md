@@ -105,8 +105,8 @@ Completing the data science internship at Cognifyz Technologies has equipped me 
 [GitHub Repository](https://github.com/Nayeem-stud/Cognifyz-Datascience-Internship.git)
 
 ## Images
-![Data Science Internship](COGNIFY/page -1.png)
-![Task List](COGNIFY/page -2.png)
+![Data Science Internship](COGNIFY/page-1.png)
+![Task List](COGNIFY/page-2.png)
 
 
 #DataScience #DataAnalysis #PredictiveModeling #FeatureEngineering #DataVisualization #GeospatialAnalysis #MachineLearning #InternshipExperience #CognifyzTechnologies #RestaurantData #DataInsights #DataDrivenDecisions
